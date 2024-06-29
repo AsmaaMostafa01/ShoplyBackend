@@ -18,7 +18,12 @@ Shoply is an e-commerce website that offers new and pre-owned products. Addition
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
 ## Installation
+## Running the Project
+--> **Clone the repository of BackEnd**:
 
+    ```sh
+    git clone https://github.com/AsmaaMostafa01/ShoplyBackend.git
+    ```
 1. **Clone the repository of frontend**:
 
     ```sh
@@ -35,12 +40,7 @@ Shoply is an e-commerce website that offers new and pre-owned products. Addition
     cd backend
     npm install
     ```
-## Running the Project
---> **Clone the repository of BackEnd**:
 
-    ```sh
-    git clone https://github.com/AsmaaMostafa01/ShoplyBackend.git
-    ```
 ### Backend
 
 1. **Create a `.env` file in the `backend` directory** and add the following environment variables:
